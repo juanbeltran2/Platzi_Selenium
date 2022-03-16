@@ -1,0 +1,10 @@
+# Libreria de Selenium
+pip3 install selenium   
+
+# Libreria para generar reportes
+pip3 install pyunitreport
+
+# Driver del navegador (descargar la version mas reciente y estable)
+https://chromedriver.chromium.org/
+
+# Se ejecuta desde la terminal
